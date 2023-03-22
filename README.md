@@ -1,7 +1,7 @@
 # UTS_PAM_2022
-- Nama : Joy Arta Br Sitinjak
-- NIM : 120140101
-- Kelas : PAM RA
+- Nama : SARLINI
+- NIM : 120140089
+- Kelas : PAM RB
 
 # NAMA APLIKASI
 Kalender To Do List
