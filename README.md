@@ -35,4 +35,6 @@ Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat melihat kal
 ---
 <p align="center">
     <img width="200px" src="WhatsApp Image 2023-03-22 at 23.10.39.jpeg">
+    <img width="200px" src="WhatsApp Image 2023-03-22 at 23.10.40 (1).jpeg">
+    <img width="200px" src="WhatsApp Image 2023-03-22 at 23.10.40.jpeg">
 </p>
