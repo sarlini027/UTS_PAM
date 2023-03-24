@@ -1,4 +1,4 @@
-# UTS_PAM_2022
+# UTS_PAM_2023
 - Nama : SARLINI
 - NIM : 120140089
 - Kelas : PAM RB
@@ -30,3 +30,9 @@ Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat melihat kal
     "@react-native-community/datetimepicker": "6.2.0",
     "@react-native-async-storage/async-storage": "~1.17.3"
    
+   
+## Apk Preview 
+---
+<p align="center">
+    <img width="200px" src="WhatsApp Image 2023-03-22 at 23.10.39.jpeg">
+</p>
